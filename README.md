@@ -36,3 +36,4 @@ v0.22.0
 9) Build and Run
 10) Accept the cert if prompted after build is complete
 11) There will be a cube 1 meter in front of where your current headpose session started
+12) The same applies to this project, which should be the most up to date, except it includes a working globe and graph
