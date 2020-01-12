@@ -1,0 +1,304 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "f22c50cd04ad6fd06208e3d73a22b3120897e0a2",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3291112,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "067671349fa4ddc16b6cbf87e9933d9eef6e20f2",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 53355456,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d076edcff440dd2505cabf52c0b628f7a8f396da",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\libil2cpp.so-aafa3e86f99579a9",
+   "xfrm_size": 53356214
+  },
+  {
+   "compression": 8,
+   "hash": "fa2b8ff146caf64688e7aa835af0034ca81b5505",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 282448,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "102dbeb6a9cb8338e1b8d4abc988a618fc19241c",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\AudioPluginMSASpatializer.so-0465bf2b3455eb7f",
+   "xfrm_size": 283206
+  },
+  {
+   "compression": 8,
+   "hash": "134eac416c583401014c558ed5af6c926fdc258b",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68096,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "bada121f1f4ec16ace56affb65164d688458799c",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 329216,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "b8ce049d2e85f27cc7346d7551d1853b20e78461",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22016,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "28d906913625c6d93c48052d454ff7c088085d0e",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\UnityMagicLeap.so-0465bf2b3455eb7f",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "fbfa4a6aa20b14e0f60550676e5d34bebb99d46d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ffdc5d57aa0cfc8e6a2bb581a34b1e1c86185d5f",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\libml_camera_plugin.so-0465bf2b3455eb7f",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "88ac1047e0ac5686d703471c3115f719ca66a4e8",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c26fe6e2b0d3376c0bd7e0a002b43c43b4562ccb",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\libml_mediaplayer_plugin.so-0465bf2b3455eb7f",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "e0447b3beab1d947976255051aaeb8ca8f0ebe62",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 942768,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "39d321ed9c1617aa9a536bd4ccfb12a532b9c7c7",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 60208,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "80d8c2414e672b1f4963ff69b67e6991b30bfc94",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 84540,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "6f31b2997a0e51ba517318385856ef51c0b9b722",
+   "pkgpath": "Data/level0",
+   "size": 7692,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "a0f6b89f170bdd90f0d2fb1645270446fea6f96d",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "679c207a64105aa3c8e49dcc792e6fd39e8e85ac",
+   "pkgpath": "Data/resources.assets",
+   "size": 554760,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1d5e5447a0f0b085b695376c9fdb7738e07e4f23",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6cdc0e4cbe1201c4ca6f1a16e833814ac2bbc3a8",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "6bb6bf1304a558acec92cd0f91e7742a4e443578",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 944496,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "ac6bb21f9b305788be892f1231926e7605cf37f3",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 16777272,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5a990adf80af58a3b4076892dfb52e1813211a8d",
+   "pkgpath": "bin/Player.elf",
+   "size": 20710840,
+   "src": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6f755036ae33fac79d40d97f43a138857e214094",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\Player.elf-a722910a9e54c125",
+   "xfrm_size": 20711598
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/Shreyas Patil/MagicLeap/mlsdk/v0.22.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "93e86accaa0b2e18a9754d3f8a0d1d72fad38e5b",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\libc++_shared.so-f3ca63a8087a4f8f",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "f9982cf7bd65c827e3176367b5ef67470512a2fd",
+   "pkgpath": "manifest.xml",
+   "size": 1839,
+   "src": "C:\\Users\\Shreyas Patil\\Desktop\\Unity-Project-Template-2019.2.3f1\\Unity-Project-Template-2019.2.3f1\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "f34fc87c86daef8727eb1f68f0a16450ca88089e",
+     "developer_id": "b4bc3e57-c00e-4c40-82e0-434ac40d267d"
+    }
+   },
+   "xfrm_hash": "a915eab82724c5fd6d87038e595ea47616ac382c",
+   "xfrm_path": "C:/Users/Shreyas Patil/Desktop/Unity-Project-Template-2019.2.3f1/Unity-Project-Template-2019.2.3f1/.out/.cache/debug_lumin_clang-3.8_aarch64/com.hello.earth-56896fd11864a70e\\manifest.xml-a722910a9e54c125",
+   "xfrm_size": 1851
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\Shreyas Patil\\Desktop\\Base Magic Leap Project\\cert.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
