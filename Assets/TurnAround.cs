@@ -20,7 +20,8 @@ public class TurnAround : MonoBehaviour
     // Start is called before the first frame update
 
 	void Start() {
-
+		Behaviour halo = (Behaviour)GetComponent("Halo");
+		halo.enabled=false;
 	}
 
 
@@ -48,11 +49,11 @@ public class TurnAround : MonoBehaviour
 	}
 
 	void updateTransForm() {
-		float speed = Time.deltaTime * 7.0f;
-		Vector3 z = new Vector3(0,0,2);
-		Vector3 pos = Camera.transform.position + Camera.transform.forward + z;
-		transform.position = Vector3.SlerpUnclamped(transform.position,pos,speed);
-		Quaternion rot = Quaternion.LookRotation(transform.position - Camera.transform.position);
+		// float speed = Time.deltaTime * 7.0f;
+		// Vector3 z = new Vector3(0,0,1);
+		// Vector3 pos = Camera.transform.position + Camera.transform.forward + z;
+		// transform.position = Vector3.SlerpUnclamped(transform.position,pos,speed);
+		// Quaternion rot = Quaternion.LookRotation(transform.position - Camera.transform.position);
 		//transform.rotation = Quaternion.Slerp(transform.rotation,rot,speed);
 	}
 
